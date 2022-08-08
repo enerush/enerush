@@ -6,6 +6,5 @@
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧑‍💻 Languages: Python</code>
 <code>📦 Tech stack: Django, Docker, Selenium</code>
-<code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 Telegram: [@enerush](https://telegram.me/enerush)</code>
 <code>📫 [nyw077@gmail.com)](mailto:nyw077@gmail.com)</code>
